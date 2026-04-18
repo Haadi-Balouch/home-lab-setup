@@ -108,7 +108,7 @@ This lab is the foundation for all detection and analysis work in my portfolio:
 | Repo | How it uses this lab |
 |---|---|
 | [siem-detection-lab](../siem-detection-lab) | All Splunk detections run against logs generated here |
-| [security-tools](../security-tools) | All tool notes are based on hands-on use in this environment |
+| [security-tools](https://github.com/Haadi-Balouch/security-tools) | All tool notes are based on hands-on use in this environment |
 
 ---
 
