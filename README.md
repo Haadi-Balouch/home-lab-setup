@@ -36,8 +36,8 @@ No tools or techniques have been used against any unauthorized systems.
 
 ```
 ┌─────────────────────────────────────────────┐
-│              HOST MACHINE (Windows)          │
-│                   16GB RAM                   │
+│              HOST MACHINE (Windows)         │
+│                   16GB RAM                  │
 │                                             │
 │  ┌──────────────────┐  ┌─────────────────┐  │
 │  │   Kali Linux VM  │  │ Metasploitable  │  │
@@ -80,7 +80,7 @@ No tools or techniques have been used against any unauthorized systems.
 | Tcpdump | Network Analysis | CLI-based packet capture |
 | Burp Suite Community | Web Proxy (lab) | HTTP traffic interception |
 
-> 📁 See [`tools-installed/`](./tools-installed/) for setup notes on each tool
+> 📁 See [`tools-installed/`](./tools-installed/) for setup notes on each tool (under progress)
 
 ---
 
@@ -94,12 +94,8 @@ home-lab-setup/
 ├── vm-setup/
 │   ├── kali-linux-setup.md          ← Kali VM configuration notes
 │   └── metasploitable-setup.md      ← Metasploitable 2 setup and service inventory
-├── tools-installed/
-│   ├── splunk-setup.md              ← Splunk installation and configuration
-│   ├── wireshark-setup.md           ← Wireshark setup notes
-│   └── tools-list.md                ← Full tool inventory with versions
 ├── screenshots/
-│   └── README.md                    ← Index of all screenshots
+│   └── png pictures
 └── lessons-learned.md               ← Honest notes on problems hit and solved
 ```
 
@@ -127,7 +123,6 @@ This lab is the foundation for all detection and analysis work in my portfolio:
 
 ## 📚 Resources Used to Build This Lab
 
-- [TryHackMe SOC Level 1 Path](https://tryhackme.com/path/outline/soclevel1)
 - [VirtualBox Documentation](https://www.virtualbox.org/wiki/Documentation)
 - [Splunk Free Download](https://www.splunk.com/en_us/download/splunk-enterprise.html)
 - [Metasploitable 2 Setup Guide — Rapid7](https://docs.rapid7.com/metasploit/metasploitable-2/)
