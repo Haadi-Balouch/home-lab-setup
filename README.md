@@ -80,7 +80,7 @@ No tools or techniques have been used against any unauthorized systems.
 | Tcpdump | Network Analysis | CLI-based packet capture |
 | Burp Suite Community | Web Proxy (lab) | HTTP traffic interception |
 
-> 📁 See [`tools-installed/`](./tools-installed/) for setup notes on each tool (under progress)
+> 📁 See [`security-tools`](https://github.com/Haadi-Balouch/security-tools) for setup notes on each tool (under progress)
 
 ---
 
